@@ -1,0 +1,12 @@
+.vscode/**
+node_modules/**
+src/**
+.gitignore
+package.lock.json
+tsconfig.json
+webpack.config.js
+**/*.vsix
+.git/**
+.github/**
+**/*.svg
+images/darker-modern-icon-1024w.png
