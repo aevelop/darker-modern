@@ -1,0 +1,37 @@
+{
+    "name": "darker-modern",
+    "displayName": "Darker Modern Theme",
+    "description": "Making Dark Modern Even Darker",
+    "publisher": "aevelop",
+    "author": {
+        "name": "aevelop"
+    },
+    "icon": "images/darker-modern-icon.png",
+    "galleryBanner": {
+        "color": "#101010",
+        "theme": "dark"
+    },
+    "pricing": "Free",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darker Modern",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darker Modern-color-theme.json"
+            }
+        ]
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aevelop/darker-modern.git"
+    },
+    "homepage": "https://github.com/aevelop/darker-modern/README.md"
+}
